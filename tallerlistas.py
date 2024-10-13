@@ -1,6 +1,6 @@
 import os
 """
-Taller presentado por Julian David Rosales y Juan Diego Botina
+Taller presentado por Julian David Rosales y Juan Diego Botina Realpe
 """
 def crear_archivo_estudiantes():
     """
