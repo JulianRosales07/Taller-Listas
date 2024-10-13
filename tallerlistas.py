@@ -1,5 +1,7 @@
 import os
-
+"""
+Taller presentado por Julian David Rosales y Juan Diego Botina
+"""
 def crear_archivo_estudiantes():
     """
     Creamos el archivo 'estudiantes.txt' con datos ingresados por el usuario si no existe.
